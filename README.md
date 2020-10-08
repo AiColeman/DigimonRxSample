@@ -3,6 +3,9 @@
 ## About
 - RxJava를 사용한 간단한 api 통신 앱입니다.
 
+## Screenshot
+<img src="https://i.postimg.cc/FHKpbs9K/digimon.png" width="256px"/>
+
 ## Stack
 - MVVM
 - [Hilt](https://dagger.dev/hilt/)
